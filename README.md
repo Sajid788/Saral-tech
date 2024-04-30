@@ -1,7 +1,7 @@
 # Saral-Tech Assignment
 
 ## Deployment Link
-sajid788.github.io/Saral-tech/ 
+https://sajid788.github.io/Saral-tech/
 
 ## Problem Statement
 Create a webpage using HTML and CSS
